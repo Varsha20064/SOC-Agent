@@ -11,7 +11,7 @@
 
 ### 🤖 An AI-powered SOC analyst that investigates cybersecurity incidents, reconstructs attack timelines, correlates multi-source evidence, maps attacks to MITRE ATT&CK, extracts IOCs, and generates executive reports.
 
-🌐 **Live Demo:** https://YOUR-RENDER-URL.onrender.com
+🌐 **Live Demo:** https://soc-agent-zp4h.onrender.com/
 
 </div>
 
