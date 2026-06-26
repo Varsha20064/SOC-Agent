@@ -389,12 +389,11 @@ SOC Agent answers:
 
 # 📸 Screenshots
 
-| Dashboard | Timeline | MITRE Matrix |
-|------------|----------|--------------|
-| <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/5f826c02-ca65-425a-96df-90792e626e53" />
- | <img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/ad5f1483-1ae5-445b-80f7-a199ba41162d" />
- | <img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/03b6f4d9-227f-488c-999d-c0087897cbae" />
- |
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/5f826c02-ca65-425a-96df-90792e626e53" />
+
+<img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/ad5f1483-1ae5-445b-80f7-a199ba41162d" />
+
+<img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/03b6f4d9-227f-488c-999d-c0087897cbae" />
 
 ---
 
